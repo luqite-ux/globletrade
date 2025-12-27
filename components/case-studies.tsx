@@ -72,7 +72,7 @@ export default function CaseStudies() {
 
               <div className="grid grid-cols-2 gap-6 mb-6">
                 <div>
-                  <div className="text-sm text-muted-foreground mb-1">订单数量</div>
+                  <div className="text-sm text-muted-foreground mb-1">订单数量 </div>
                   <div className="text-2xl font-bold text-foreground">{cases[currentCase].quantity}</div>
                 </div>
                 <div>
